@@ -16,7 +16,7 @@
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/niravkumar-thakar-0a317426a)]  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/niravkumar-thakar-0a317426a)  
 
 ---
 
